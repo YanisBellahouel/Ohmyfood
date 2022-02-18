@@ -40,7 +40,7 @@
     height: 120px;
     z-index: 1;
     position: absolute;
-    right: 45%;
+    right: 50%;
     top: 50%;
     animation-duration: 2s;
     animation-name: spin;
